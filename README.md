@@ -3,7 +3,15 @@
 </h1>
 
 <p align="center">
-  🌸 Criativa • ✨ Sempre evoluindo • 💻 Explorando tecnologia
+  🌸 Criativa • 💫 Sempre evoluindo • 💻 Explorando tecnologia
+</p>
+
+---
+
+<p align="center">
+✨ Olá! Eu sou a Maria Eduarda,estudante de Desenvolvimento de Sistemas no <strong>SENAI Valinhos</strong>.
+Estou sempre explorando coisas novas, quebrando a cabeça (às vezes literalmente 😅) e aprendendo algo diferente a cada dia!  
+Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas e minha vibe atual. ✨
 </p>
 
 ---
@@ -68,5 +76,5 @@
 ---
 
 <p align="center">
-  💖 feito com carinho por mim 💖
+  🤍 feito com carinho por mim 🤍
 </p>
