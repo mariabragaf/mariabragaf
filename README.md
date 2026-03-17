@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif" width="100%" />
-</p>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=750&lines=Olá,+eu+sou+a+Maria+Eduarda+💖;Bem+vindo+(a)+ao+meu+cantinho!;Tentando+não+quebrar+tudo+😅💻✨" />
 </h1>
