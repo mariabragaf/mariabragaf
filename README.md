@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
- Estudante de <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI Valinhos</strong> 💻💖  
+ Estudante de <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI Valinhos</strong>.  
 Sempre explorando coisas novas, quebrando a cabeça (às vezes literalmente 😅) e aprendendo algo diferente a cada dia.  
 Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas e minha vibe atual. 
 </p>
@@ -52,6 +52,12 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas
    • Prototipação de interfaces <br>
    • Organização de projetos
 </p>
+
+---
+
+## 🎖️ Conquistas
+![GitHub followers](https://img.shields.io/github/followers/mariabragaf?style=social)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariabragaf&layout=compact)
 
 ---
 
