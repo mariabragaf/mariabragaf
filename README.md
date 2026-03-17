@@ -1,9 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
-</p>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=750&lines=Olá,+eu+sou+a+Maria+Eduarda+💖;Prometo+que+meu+código+funciona+(às+vezes+😅);Tentando+não+quebrar+tudo+💻✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=750&lines=Olá,+eu+sou+a+Maria+Eduarda+💖;Bem+Vindo(a)+ao+meu+cantinho!;Tentando+não+quebrar+tudo+💻✨" />
 </h1>
 
 <p align="center">
@@ -24,11 +20,9 @@
 ## 🎧 Música do momento
 
 <p align="center">
-  <iframe style="border-radius:12px" 
-    src="https://open.spotify.com/embed/track/16XNk3bVCSHXN1rlwbXtHb" 
-    width="300" height="80" frameBorder="0" 
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture">
-  </iframe>
+  <a href="https://open.spotify.com/track/16XNk3bVCSHXN1rlwbXtHb" target="_blank">
+    💖 Ouvir no Spotify
+  </a>
 </p>
 
 ---
@@ -36,9 +30,7 @@
 ## 🧸 Joguinho
 
 <p align="center">
-  <a href="https://neal.fun/" target="_blank">
-    🎮 Clique aqui para jogar algo divertido
-  </a>
+  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="300"/>
 </p>
 
 ---
