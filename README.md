@@ -25,24 +25,6 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas
 
 ---
 
-## 🎧 Tocando por aqui...
-
-<p align="center">
-  <a href="https://open.spotify.com/track/16XNk3bVCSHXN1rlwbXtHb" target="_blank">
-    <img src="https://img.shields.io/badge/🎧%20Ouvir%20no%20Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white&labelColor=FF1493" />
-  </a>
-</p>
-
----
-
-## ✨ Vibe do momento:
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnAyZHJuY2hiMWN0em9yMWVxc2tseDFqdzZsMmJzb3R1a3h6OWhnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cIxxFKOTCPwX9DUk7L/giphy.gif" width="350"/>
-</p>
-
----
-
 ## 🌷 Habilidades
 
 <p>
@@ -58,12 +40,12 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas
 ## 🛠️ Ferramentas que uso
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 </p>
 
 ---
@@ -76,6 +58,24 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabragaf&layout=compact&theme=rose_pine" />
+</p>
+
+---
+
+## 🎧 Tocando por aqui...
+
+<p align="center">
+  <a href="https://open.spotify.com/track/16XNk3bVCSHXN1rlwbXtHb" target="_blank">
+    <img src="https://img.shields.io/badge/🎧%20Ouvir%20no%20Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white&labelColor=FF1493" />
+  </a>
+</p>
+
+---
+
+## ✨ Vibe do momento:
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnAyZHJuY2hiMWN0em9yMWVxc2tseDFqdzZsMmJzb3R1a3h6OWhnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cIxxFKOTCPwX9DUk7L/giphy.gif" width="350"/>
 </p>
 
 ---
