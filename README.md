@@ -13,7 +13,7 @@
 - 🎀 Amo aprender coisas novas  
 - 🧠 Sempre buscando evoluir  
 - 🌱 Cada dia aprendendo algo diferente...  
-- 🍪 Amo cookies mais que bugs!!  
+- 🍫 Amo chocolate mais que bugs!!
 
 ---
 
@@ -38,7 +38,11 @@
 ## 🌷 Habilidades
 
 <p>
-  💖 HTML • 💖 CSS • 💖 Front-end • 💖 Prototipação • 💖 Organização de projetos
+  • 💖 HTML 
+  • 💖 CSS 
+  • 💖 Front-end 
+  • 💖 Prototipação 
+  • 💖 Organização de projetos
 </p>
 
 ---
