@@ -28,11 +28,11 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas
 ## 🌷 Habilidades
 
 <p>
-   • HTML <br>
-   • CSS <br>
-   • Responsividade <br>
-   • Prototipação de interfaces <br>
-   • Organização de projetos
+   •  HTML <br>
+   •  CSS <br>
+   •  Responsividade <br>
+   •  Prototipação de interfaces <br>
+   •  Organização de projetos
 </p>
 
 ---
