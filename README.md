@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=750&lines=Olá,+eu+sou+a+Maria+Eduarda+💖;Bem+vindo+(a)+ao+meu+cantinho!;Tentando+não+quebrar+tudo+😅💻✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=32&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+a+Maria+Eduarda+💖;Bem+vindo+(a)+ao+meu+cantinho!;Tentando+não+quebrar+tudo+😅💻✨" />
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ## 💕 Sobre mim
 
-- 🎀 Amo tecnologia e aprender coisas novas  
+- 🎀 Amo aprender coisas novas  
 - 🧠 Sempre buscando evoluir  
 - 🌱 Cada dia aprendendo algo diferente...  
 - 🍪 Amo cookies mais que bugs!!  
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://open.spotify.com/track/16XNk3bVCSHXN1rlwbXtHb">
-    <img src="https://img.shields.io/badge/🎧%20Ouvir%20no%20Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🎧%20Ouvir%20no%20Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white&labelColor=FF1493&scale=2"/>
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 ## ✨ Vibe do momento:
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnAyZHJuY2hiMWN0em9yMWVxc2tseDFqdzZsMmJzb3R1a3h6OWhnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cIxxFKOTCPwX9DUk7L/giphy.gif" width="250"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnAyZHJuY2hiMWN0em9yMWVxc2tseDFqdzZsMmJzb3R1a3h6OWhnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cIxxFKOTCPwX9DUk7L/giphy.gif" width="350"/>
 </p>
 
 ---
@@ -38,7 +38,7 @@
 ## 🌷 Habilidades
 
 <p>
-  💖 HTML • 💖 CSS • 💖 Front-end básico
+  💖 HTML • 💖 CSS • 💖 Front-end • 💖 Prototipação • 💖 Organização de projetos
 </p>
 
 ---
