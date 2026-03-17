@@ -82,8 +82,14 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas
 
 ## 💌 Contato
 
-- 📷 Instagram: @ibraga_ma  
-- 📧 Email: ddubraga012@gmail.com  
+<p align="center">
+  <a href="https://instagram.com/ibraga_ma" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@ibraga_ma-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:ddubraga012@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-ddubraga012@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 ---
 
