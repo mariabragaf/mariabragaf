@@ -71,7 +71,7 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas
 ## 📊 Minha atividade no GitHub
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mariabragaf&theme=github" alt="GitHub Activity Graph" width="700"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=mariabragaf&theme=merko" alt="GitHub Activity Graph" width="700"/>
 </p>
 
 ---
