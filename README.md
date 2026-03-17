@@ -84,10 +84,10 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas
 
 <p align="center">
   <a href="https://instagram.com/ibraga_ma" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@ibraga_ma-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="mailto:ddubraga012@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ddubraga012@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
 
