@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=750&lines=Olá,+eu+sou+a+Maria+Eduarda+💖;Bem+Vindo(a)+ao+meu+cantinho!;Tentando+não+quebrar+tudo+💻✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=28&center=true&vCenter=true&width=750&lines=Olá,+eu+sou+a+Maria+Eduarda+💖;Bem+Vindo+(a)+ao+meu+cantinho!;Tentando+não+quebrar+tudo+😅💻✨" />
 </h1>
 
 <p align="center">
@@ -12,8 +12,8 @@
 
 - 🎀 Amo tecnologia e aprender coisas novas  
 - 🧠 Sempre buscando evoluir  
-- 🌱 Cada dia aprendendo algo diferente  
-- ☕ Movida a cappuccino  
+- 🌱 Cada dia aprendendo algo diferente...  
+- 🍪 Amo cookies mais que bugs!!  
 
 ---
 
