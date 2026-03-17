@@ -8,9 +8,9 @@
 
 ---
 
-## 💕 Sobre mim
+## 🎀 Sobre mim
 
-- 🎀 Amo aprender coisas novas  
+- 🔍 Amo aprender coisas novas  
 - 🧠 Sempre buscando evoluir  
 - 🌱 Cada dia aprendendo algo diferente...  
 - 🍫 Amo chocolate mais que bugs!!
@@ -38,12 +38,13 @@
 ## 🌷 Habilidades
 
 <p>
-  • 💖 HTML 
-  • 💖 CSS 
-  • 💖 Front-end 
-  • 💖 Prototipação 
-  • 💖 Organização de projetos
+   • HTML <br>
+   • CSS <br>
+   • Responsividade <br>
+   •  Prototipação de interfaces <br>
+   • Organização de projetos
 </p>
+
 
 ---
 
