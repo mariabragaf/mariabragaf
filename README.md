@@ -62,7 +62,7 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, e minha 
 
 ---
 
-## ✨ Vibe do momento:
+## ✨ Vibe
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnAyZHJuY2hiMWN0em9yMWVxc2tseDFqdzZsMmJzb3R1a3h6OWhnciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cIxxFKOTCPwX9DUk7L/giphy.gif" width="350"/>
