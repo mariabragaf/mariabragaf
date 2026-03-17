@@ -8,9 +8,10 @@
 
 ---
 
-<p align="center"> Estudante de Desenvolvimento de Sistemas no <strong>SENAI Valinhos</strong>.
-Estou sempre explorando coisas novas, quebrando a cabeça (às vezes literalmente 😅) e aprendendo algo diferente a cada dia!  
-Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas e minha vibe atual. 
+<p align="center">
+✨ Estudante de <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI Valinhos</strong> 💻💖  
+Sempre explorando coisas novas, quebrando a cabeça (às vezes literalmente 😅) e aprendendo algo diferente a cada dia.  
+Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas e minha vibe atual ✨
 </p>
 
 ---
@@ -27,8 +28,10 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas
 ## 🎧 Tocando por aqui...
 
 <p align="center">
-  <a href="https://open.spotify.com/track/16XNk3bVCSHXN1rlwbXtHb">
-    <img src="https://img.shields.io/badge/🎧%20Ouvir%20no%20Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white&labelColor=FF1493&scale=2"/>
+  <a href="https://open.spotify.com/track/16XNk3bVCSHXN1rlwbXtHb" target="_blank">
+    <img src="https://i.scdn.co/image/ab67616d0000b2738c4d3d5b5a7e7b8d2e3f1a2b" width="200" alt="Capa da música" />
+    <br>
+    🎵 Nome da Música — Artista
   </a>
 </p>
 
@@ -48,10 +51,9 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas
    • HTML <br>
    • CSS <br>
    • Responsividade <br>
-   •  Prototipação de interfaces <br>
+   • Prototipação de interfaces <br>
    • Organização de projetos
 </p>
-
 
 ---
 
