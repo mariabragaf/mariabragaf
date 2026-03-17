@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  🌸 Criativa • 💫 Sempre evoluindo • 💻 Explorando tecnologia
+   Criativa •  Sempre evoluindo •  Explorando tecnologia
 </p>
 
 ---
