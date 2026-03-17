@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=32&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+a+Maria+Eduarda+💖;Bem+vindo+(a)+ao+meu+cantinho!;Tentando+não+quebrar+tudo+😅💻✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=32&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+a+Maria+Eduarda+;Bem+vindo+(a)+ao+meu+cantinho!;Tentando+não+quebrar+tudo+😅💻✨" />
 </h1>
 
 <p align="center">
