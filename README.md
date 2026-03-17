@@ -18,7 +18,7 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas
 
 ## 👤 Sobre mim
 
-- 🔍 Amo aprender coisas novas  
+- 🔍 Curiosa por tecnologia e novidades  
 - 🧠 Sempre buscando evoluir  
 - 🌱 Cada dia aprendendo algo diferente...  
 - 🍫 Amo chocolate mais que bugs!!
