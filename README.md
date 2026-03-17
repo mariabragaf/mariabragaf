@@ -11,7 +11,7 @@
 <p align="center">
  Estudante de <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI Valinhos</strong>.  
 Sempre explorando coisas novas, quebrando a cabeça (às vezes literalmente 😅) e aprendendo algo diferente a cada dia.  
-Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas e minha vibe atual. 
+Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, e minha vibe atual. 
 </p>
 
 ---
@@ -58,16 +58,6 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, músicas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariabragaf&layout=compact&theme=rose_pine" />
-</p>
-
----
-
-## 🎧 Tocando por aqui...
-
-<p align="center">
-  <a href="https://open.spotify.com/track/16XNk3bVCSHXN1rlwbXtHb" target="_blank">
-    <img src="https://img.shields.io/badge/🎧%20Ouvir%20no%20Spotify-FF69B4?style=for-the-badge&logo=spotify&logoColor=white&labelColor=FF1493" />
-  </a>
 </p>
 
 ---
