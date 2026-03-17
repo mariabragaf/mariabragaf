@@ -8,7 +8,7 @@
 
 ---
 
-## 🤍 Sobre mim
+## 👤 Sobre mim
 
 - 🔍 Amo aprender coisas novas  
 - 🧠 Sempre buscando evoluir  
