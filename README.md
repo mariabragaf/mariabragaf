@@ -10,7 +10,7 @@
 
 <p align="center">
  Estudante de <strong>Desenvolvimento de Sistemas</strong> no <strong>SENAI Valinhos</strong>.  
-Sempre explorando coisas novas, quebrando a cabeça (às vezes literalmente 😅) e aprendendo algo diferente a cada dia.  
+Sempre explorando coisas novas, quebrando a cabeça e aprendendo algo diferente a cada dia.  
 Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, e minha vibe atual. 
 </p>
 
