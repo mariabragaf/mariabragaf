@@ -70,8 +70,7 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, e minha 
 ---
 
 ## 💌 Contato
-
-- 📷 Instagram: @ibraga_ma  
+ 
 - 📧 Email: ddubraga012@gmail.com  
 
 ---
