@@ -77,5 +77,5 @@ Bem-vindo(a) ao meu cantinho do GitHub, onde compartilho meus projetos, e minha 
 ---
 
 <p align="center">
-  🤍 feito com carinho por mim 🤍
+  🤍 feito por mim 🤍
 </p>
